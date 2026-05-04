@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yesha Shah 👋
 
-<!--
-**Yesha153/Yesha153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst based in Toronto  
+📊 Passionate about Data, AI & Visualization  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python (Pandas, NumPy)
+- SQL
+- Power BI / Tableau
+- Machine Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/yesha-shah-a944641a7
+
+
